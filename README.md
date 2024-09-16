@@ -1,4 +1,4 @@
-# EcoVoit - Back
+# EcoVoit - Back-end
 
 ## Introduction
 
@@ -13,8 +13,8 @@ Prerequisites :
 Follow these instructions to initialize the project :
 
 1. Clone this repo.
-2. At the same level, clone the front repo found [here](https://github.com/WildCodeSchool/2209-wns-hamilton-ecovoit-front).
-3. Run command `cd 2209-wns-hamilton-ecovoit-back`.
+2. At the same level, clone the front repo found [here](https://github.com/MarineGueguen/ecovoit_frontend/tree/main).
+3. Run command `cd ecovoit_back`.
 4. Run command `docker compose up --build`.
 5. Open http://localhost:4000 
 
